@@ -614,7 +614,7 @@ if (localStorage.end === undefined) {
 }
 
 document.getElementById('delete').addEventListener('click', function () {
-    confirmOpen('Are you sure to delete about the \"Last charge status change\" infomation?', 'delete')
+    confirmOpen('Are you sure to delete about the \"Last charge status change\" information?', 'delete')
 });
 
 document.getElementById('start').addEventListener('click', function () {
